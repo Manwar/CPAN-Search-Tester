@@ -84,6 +84,10 @@ sub search {
 
 Mohammad S Anwar, C<< <mohammad.anwar at yahoo.com> >>
 
+=head1 REPOSITORY
+
+L<https://github.com/Manwar/CPAN-Search-Tester>
+
 =head1 BUGS
 
 Please report any bugs  or  feature requests to C<bug-cpan-search-tester at rt.cpan.org>,
